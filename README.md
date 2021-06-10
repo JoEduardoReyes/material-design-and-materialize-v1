@@ -1,8 +1,8 @@
 # material-design-and-materialize-v1
 
-## Frameworks, ¿Qué son?
-
 Por Diego de Granda
+
+## Frameworks, ¿Qué son?
 
 Jun 7, 2021
 
@@ -29,3 +29,13 @@ Jun 7, 2021
 [11. Cards](https://www.notion.so/11-Cards-64710358c48e41a291e82d62739b07bd)
 
 [12. Terminando el index.html y estilos en el mainpage](https://www.notion.so/12-Terminando-el-index-html-y-estilos-en-el-mainpage-86d42b4a4d3c47ac8d2662053d60138f)
+
+[13. Desarrollo de la página de artículo ](https://www.notion.so/13-Desarrollo-de-la-p-gina-de-art-culo-e0ac6cac812946abaeff227f810d1f06)
+
+[14. Desarrollo de la página de registro. ](https://www.notion.so/14-Desarrollo-de-la-p-gina-de-registro-f278cc0e74ee4f4581040729432afab7)
+
+[15. Terminando el desarrollo del registro y reto](https://www.notion.so/15-Terminando-el-desarrollo-del-registro-y-reto-137816e6e20042ffa2ab87a256fa3d8e)
+
+## Despliegue del proyecto
+
+[16. Despliegue del proyecto en Firebase](https://www.notion.so/16-Despliegue-del-proyecto-en-Firebase-21c6756d4c664a5b9a80456011e37503)
