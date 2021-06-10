@@ -5,6 +5,7 @@ body {
   display: -ms-flexbox;
   display: flex;
   min-height: 100vh;
+  min-width: 320px;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
@@ -15,8 +16,8 @@ header {
   height: 500px;
 }
 header nav {
+  color: #e3f2fd;
   height: 100px;
-  background-color: white;
 }
 header nav .brand-logo {
   max-height: 100%;
@@ -26,9 +27,6 @@ header nav .brand-logo img {
 }
 header nav ul {
   height: 100px;
-}
-header nav ul a {
-  color: gray;
 }
 
 .header-main-pic {
@@ -71,4 +69,13 @@ footer.page-footer {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+}
+
+/* registro */
+.registro-titulo {
+  margin-top: 80px;
+}
+
+.registro-header {
+  height: 400px;
 }
